@@ -8,3 +8,11 @@
     height: 100px;
     text-align: center;
 }
+
+#draggable {
+    background-color: tomato;
+  }
+  #dropper {
+    background-color: dodgerblue;
+  }
+  
